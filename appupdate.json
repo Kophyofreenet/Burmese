@@ -1,13 +1,23 @@
 {
 
-"message":"UPDATE  Burmese VPN\nhttps://play.google.com/store/apps/details?id=burmese.vpnpro.net",
+  
 
-  "title":"အက်ပ်ကို အပ်ဒိတ်လုပ်ပါ ",
+"message":"Burmese VPN ဆက်သုံး၍မရပါ
 
- "title":"โปรดทำการอัพเดตแอป ",
+\nZ VPN အသစ်ကိုပြောင်းသုံးပါ
 
-   "link":"play.google.com/store/apps/details?id=burmese.vpnpro.net",
+\n အဆင်မပြေမှူအတွက်တောင်းပန်ပါတယ် 
 
-   "version": 2
+\nBurmese VPN ใช้งานไม่ได้แล้ว
+
+\nกรุณาย้ายไปใช้แอปใหม่ Z VPN
+
+\nขออภัยในความไม่สะดวก",
+
+ "title":"⚠️Error⚠️ ",
+
+   "link":"https://play.google.com/store/apps/details?id=aungdang.vpsvpn.net",
+
+   "version": 3
 
 }
